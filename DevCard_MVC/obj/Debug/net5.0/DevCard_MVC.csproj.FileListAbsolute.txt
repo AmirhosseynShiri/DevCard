@@ -115,3 +115,4 @@ E:\DevCard\DevCard_MVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspne
 E:\DevCard\DevCard_MVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 E:\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+E:\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\LatestArticles\_LatestArticles.cshtml.g.cs
